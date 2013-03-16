@@ -1,0 +1,357 @@
+10
+
+dir
+0
+http://spydarleeuni.unfuddle.com/svn/spydarleeuni_consoledev/Mars++/src/docs/mars/venus/editors/jeditsyntax
+http://spydarleeuni.unfuddle.com/svn/spydarleeuni_consoledev
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+038f60b1-783d-4ae5-870f-79fac991b127
+
+InputHandler.Wrapper.html
+file
+
+
+
+add
+
+InputHandler.clip_copy.html
+file
+
+
+
+add
+
+InputHandler.clip_paste.html
+file
+
+
+
+add
+
+TextUtilities.html
+file
+
+
+
+add
+
+InputHandler.next_line.html
+file
+
+
+
+add
+
+InputHandler.home.html
+file
+
+
+
+add
+
+SyntaxDocument.html
+file
+
+
+
+add
+
+package-tree.html
+file
+
+
+
+add
+
+InputHandler.toggle_rect.html
+file
+
+
+
+add
+
+InputHandler.insert_char.html
+file
+
+
+
+add
+
+InputHandler.clip_cut.html
+file
+
+
+
+add
+
+InputHandler.document_end.html
+file
+
+
+
+add
+
+TextAreaPainter.html
+file
+
+
+
+add
+
+DefaultInputHandler.html
+file
+
+
+
+add
+
+InputHandler.prev_word.html
+file
+
+
+
+add
+
+InputHandler.select_all.html
+file
+
+
+
+add
+
+InputHandler.prev_page.html
+file
+
+
+
+add
+
+InputHandler.prev_char.html
+file
+
+
+
+add
+
+TextAreaPainter.Highlight.html
+file
+
+
+
+add
+
+InputHandler.NonRecordable.html
+file
+
+
+
+add
+
+InputHandler.NonRepeatable.html
+file
+
+
+
+add
+
+InputHandler.repeat.html
+file
+
+
+
+add
+
+InputHandler.prev_line.html
+file
+
+
+
+add
+
+tokenmarker
+dir
+
+
+
+add
+
+SyntaxUtilities.html
+file
+
+
+
+add
+
+InputHandler.document_home.html
+file
+
+
+
+add
+
+InputHandler.overwrite.html
+file
+
+
+
+add
+
+KeywordMap.html
+file
+
+
+
+add
+
+package-frame.html
+file
+
+
+
+add
+
+InputHandler.MacroRecorder.html
+file
+
+
+
+add
+
+InputHandler.insert_tab.html
+file
+
+
+
+add
+
+package-summary.html
+file
+
+
+
+add
+
+InputHandler.delete_word.html
+file
+
+
+
+add
+
+PopupHelpItem.html
+file
+
+
+
+add
+
+JEditBasedTextArea.html
+file
+
+
+
+add
+
+InputHandler.html
+file
+
+
+
+add
+
+JEditTextArea.html
+file
+
+
+
+add
+
+InputHandler.delete.html
+file
+
+
+
+add
+
+InputHandler.end.html
+file
+
+
+
+add
+
+InputHandler.backspace_word.html
+file
+
+
+
+add
+
+InputHandler.insert_break.html
+file
+
+
+
+add
+
+InputHandler.next_word.html
+file
+
+
+
+add
+
+TextAreaDefaults.html
+file
+
+
+
+add
+
+InputHandler.next_page.html
+file
+
+
+
+add
+
+InputHandler.next_char.html
+file
+
+
+
+add
+
+SyntaxStyle.html
+file
+
+
+
+add
+
+InputHandler.backspace.html
+file
+
+
+
+add
+

@@ -1,0 +1,350 @@
+10
+
+dir
+0
+http://spydarleeuni.unfuddle.com/svn/spydarleeuni_consoledev/Mars++/src/docs/mars/mips/instructions/syscalls
+http://spydarleeuni.unfuddle.com/svn/spydarleeuni_consoledev
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+038f60b1-783d-4ae5-870f-79fac991b127
+
+SyscallPrintString.html
+file
+
+
+
+add
+
+RandomStreams.html
+file
+
+
+
+add
+
+SyscallRandSeed.html
+file
+
+
+
+add
+
+SyscallReadInt.html
+file
+
+
+
+add
+
+SyscallNumberOverride.html
+file
+
+
+
+add
+
+SyscallMessageDialogFloat.html
+file
+
+
+
+add
+
+SyscallInputDialogInt.html
+file
+
+
+
+add
+
+SyscallPrintChar.html
+file
+
+
+
+add
+
+SyscallWrite.html
+file
+
+
+
+add
+
+package-tree.html
+file
+
+
+
+add
+
+SyscallTime.html
+file
+
+
+
+add
+
+SyscallMessageDialogDouble.html
+file
+
+
+
+add
+
+SyscallOpen.html
+file
+
+
+
+add
+
+SyscallReadFloat.html
+file
+
+
+
+add
+
+SyscallReadString.html
+file
+
+
+
+add
+
+AbstractSyscall.html
+file
+
+
+
+add
+
+SyscallInputDialogFloat.html
+file
+
+
+
+add
+
+SyscallInputDialogString.html
+file
+
+
+
+add
+
+SyscallPrintInt.html
+file
+
+
+
+add
+
+SyscallSleep.html
+file
+
+
+
+add
+
+SyscallExit.html
+file
+
+
+
+add
+
+SyscallReadChar.html
+file
+
+
+
+add
+
+SyscallMidiOut.html
+file
+
+
+
+add
+
+SyscallRead.html
+file
+
+
+
+add
+
+SyscallRandIntRange.html
+file
+
+
+
+add
+
+SyscallPrintIntBinary.html
+file
+
+
+
+add
+
+SyscallPrintIntHex.html
+file
+
+
+
+add
+
+SyscallConfirmDialog.html
+file
+
+
+
+add
+
+SyscallPrintFloat.html
+file
+
+
+
+add
+
+SyscallPrintDouble.html
+file
+
+
+
+add
+
+package-frame.html
+file
+
+
+
+add
+
+package-summary.html
+file
+
+
+
+add
+
+SyscallExit2.html
+file
+
+
+
+add
+
+SyscallMessageDialogString.html
+file
+
+
+
+add
+
+SyscallRandInt.html
+file
+
+
+
+add
+
+SyscallSbrk.html
+file
+
+
+
+add
+
+SyscallMessageDialog.html
+file
+
+
+
+add
+
+SyscallPrintIntUnsigned.html
+file
+
+
+
+add
+
+SyscallClose.html
+file
+
+
+
+add
+
+SyscallReadDouble.html
+file
+
+
+
+add
+
+SyscallMidiOutSync.html
+file
+
+
+
+add
+
+SyscallInputDialogDouble.html
+file
+
+
+
+add
+
+SyscallRandFloat.html
+file
+
+
+
+add
+
+SyscallMessageDialogInt.html
+file
+
+
+
+add
+
+Syscall.html
+file
+
+
+
+add
+
+SyscallRandDouble.html
+file
+
+
+
+add
+
